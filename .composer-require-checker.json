@@ -25,3 +25,4 @@
         "Core", "date", "pcre", "Reflection", "SPL", "standard"
     ]
 }
+ "src/Standards/*/Tests/*/*.{inc,js,css}",
